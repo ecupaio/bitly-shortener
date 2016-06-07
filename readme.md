@@ -32,4 +32,4 @@ That's it! I made the plugin open for any translation
 ## Example
 Add your access token to `bitly.shortener.js` and load the repo in your local enviro to see the plugin in action. 
 
-You can also see the plugin in action in my [codepen](). 
+You can also see the plugin in action in my [codepen](http://codepen.io/ecupaio/pen/ezpVPR). 
