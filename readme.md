@@ -17,7 +17,7 @@ Bitly Shortener uses jQuery and Bitly's [/v3/shorten API](https://dev.bitly.com/
 1. Add the jQuery 1.7 or later to the head of your HTML document: 
 	- `<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.7/jquery.min.js"></script>`
 2. Add the plugin just before the closing body tag or at the end of your HTML document:
-	- `<script type="text/javascript" src="bitly-shortener.min.js"></script>`
+	- `<script type="text/javascript" src="bitly-shortener.js"></script>`
 
 ### Add Classes to link tags
 The plugin will look for the `long-url` link tag, process the `href` and produce the Bitly link in the `short-url` link tag. 
